@@ -10,4 +10,7 @@ This header file describes linear algebra functionality functions such as matrix
 void run();
 void test();
 
-void matrix_add(int *matrix_a, int *matrix_b, int *result, uint8_t rows, uint8_t cols);
+// Linear Algebra
+
+void matrix_add(int16_t *matrix_a, int16_t *matrix_b, int16_t *result, uint16_t rows, uint16_t cols);
+void matrix_sub(int16_t *matrix_a, int16_t *matrix_b, int16_t *result, uint16_t rows, uint16_t cols);

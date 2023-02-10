@@ -10,7 +10,7 @@ This file implements different utility functions such as creating a random matri
 #include <time.h>
 #include <stdlib.h>
 #include <stdio.h>
-void create_random_matrix(int rows, int cols, int min, int max, int *matrix)
+void create_random_matrix(uint16_t rows, uint16_t cols, uint16_t min, uint16_t max, int16_t *matrix)
 {
     int random_number;
 
@@ -23,7 +23,7 @@ void create_random_matrix(int rows, int cols, int min, int max, int *matrix)
     }
 }
 
-void linearize_matrix(uint16_t rows, uint16_t cols, int matrix[rows][cols], int *result)
+void linearize_matrix(uint16_t rows, uint16_t cols, int16_t matrix[rows][cols], int16_t *result)
 {
     uint16_t index = 0;
     for (int i = 0; i < rows; i++)
@@ -35,7 +35,7 @@ void linearize_matrix(uint16_t rows, uint16_t cols, int matrix[rows][cols], int 
     }
 }
 
-void print_matrix(int *matrix, uint8_t rows, uint8_t cols)
+void print_matrix(int16_t *matrix, uint8_t rows, uint8_t cols)
 {
     for (int i = 0; i < rows; i++)
     {
