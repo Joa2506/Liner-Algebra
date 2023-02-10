@@ -1,0 +1,1 @@
+/usr/bin/gcc-10 -g CMakeFiles/run.dir/main.c.o CMakeFiles/run.dir/utility.c.o CMakeFiles/run.dir/linear_algebra.c.o -o run 

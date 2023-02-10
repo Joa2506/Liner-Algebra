@@ -1,0 +1,3 @@
+/home/joakim/Dokumenter/linear_algebra/build/CMakeFiles/rebuild_cache.dir
+/home/joakim/Dokumenter/linear_algebra/build/CMakeFiles/edit_cache.dir
+/home/joakim/Dokumenter/linear_algebra/build/CMakeFiles/run.dir

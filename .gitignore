@@ -1,0 +1,13 @@
+#Runfile
+run
+#Makefile
+Makefile
+
+#VSCode specific content
+.vscode
+
+#Cmake stuff
+cmake-build*
+CMakeCache.txt
+*.cmake
+/CMakeFiles

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/joakim/Dokumenter/linear_algebra/build",
+  "command": "/usr/bin/gcc-10  -I/home/joakim/Dokumenter/linear_algebra/src -g -o CMakeFiles/run.dir/main.c.o -c /home/joakim/Dokumenter/linear_algebra/src/main.c",
+  "file": "/home/joakim/Dokumenter/linear_algebra/src/main.c"
+},
+{
+  "directory": "/home/joakim/Dokumenter/linear_algebra/build",
+  "command": "/usr/bin/gcc-10  -I/home/joakim/Dokumenter/linear_algebra/src -g -o CMakeFiles/run.dir/utility.c.o -c /home/joakim/Dokumenter/linear_algebra/src/utility.c",
+  "file": "/home/joakim/Dokumenter/linear_algebra/src/utility.c"
+},
+{
+  "directory": "/home/joakim/Dokumenter/linear_algebra/build",
+  "command": "/usr/bin/gcc-10  -I/home/joakim/Dokumenter/linear_algebra/src -g -o CMakeFiles/run.dir/linear_algebra.c.o -c /home/joakim/Dokumenter/linear_algebra/src/linear_algebra.c",
+  "file": "/home/joakim/Dokumenter/linear_algebra/src/linear_algebra.c"
+}
+]
