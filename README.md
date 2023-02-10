@@ -1,7 +1,7 @@
 # Linear Algebra
 
-For this project I try to learn image processing with CUDA
+A Library that implements different functionality for linear algebra. 
 
 ## Description
 
-For me to learn linear algebra by making by implementing different functions
+For me to learn linear algebra by making by implementing different functions. Will later be used to also work with SIMD intrincics for Intel, and SIMT in CUDA.
